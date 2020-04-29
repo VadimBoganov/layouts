@@ -278,9 +278,6 @@ p{
     fill: #fff;
 }
 
-.social-footer .social-icon:hover{
-    background-color: #fff;
-}
 
 .social-link{
     display: flex;
@@ -295,7 +292,7 @@ p{
 }
 
 .social-link:hover{
-    background-color: #e8ecec;
+    background-color: #fff;
 }
 
 .social-link:hover .social-icon{
